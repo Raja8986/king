@@ -1,8 +1,8 @@
-# king
-somu 
-raja reddy 
-mahesh
-surya
-sai
-srinu
-
+<head>
+<title>Internal Script</title>
+</head>
+<body>
+<script type="text/javascript">
+   document.write("Hello Javascript!")
+</script>
+</body>
